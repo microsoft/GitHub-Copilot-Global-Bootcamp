@@ -18,9 +18,6 @@ To help you successfully promote your Bootcamp, we provide a [Marketing Toolkit]
 
 Leverage these resources to maximize visibility and attract more participants to your event! 
 
-### Submitting Your Registration Link  
-- Submit your **event registration link** through our form by **April 30** to ensure it is included in our official promotions.
-
 ## 📂 Content
 
 The **GitHub Copilot Global Bootcamp** is designed to be a hands-on experience, allowing participants to learn by doing. The content is divided into four modules, from the basics of GitHub to the advanced features of GitHub Copilot. Each module is designed to be completed in **30-45 minutes**, with a total duration of **2.5 to 3 hours** for the entire bootcamp.
