@@ -27,3 +27,5 @@ In this free in-person/online bootcamp, you will:
 Perfect for anyone looking to accelerate their career with GitHub and Azure AI tools!
 
 🎓 Limited spots available! Sign up now: [insert registration link]
+
+#GitHubCopilotBootcamp #VSCode
