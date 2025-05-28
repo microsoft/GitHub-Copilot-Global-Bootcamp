@@ -18,6 +18,18 @@ Your agenda will look like this:
 ## Labs
 Explore our selection of practical resources to enhance your workshops. Here, you'll find interactive training on Microsoft Learn and repositories with hands-on exercises to develop skills with GitHub Copilot.
 
+### GitHub Skills
+
+A series of 30-45min long self paced purely practical labs.
+
+| Repository | Description |
+|------------|-------------|
+| [Getting Started with GitHub Copilot](https://github.com/skills/getting-started-with-github-copilot) | Use different GitHub Copilot features to work on a website that allows students of Mergington High School to sign up for extracurricular activities. |
+| [Integrate Model Context Protocol with Copilot](https://github.com/skills/integrate-mcp-with-copilot/) | Learn how to use GitHub MCP server, which will enable a combined workflow of issue management and website upgrades for the Mergington High School. |
+| [Expand your team with Copilot Coding Agent](https://github.com/skills/expand-your-team-with-copilot/) | Onboard a new team member - the Copilot Coding Agent to your project and assign feature and bug report issues to him! |
+
+
+
 ### Microsoft Learn 
 
 | Title | Level | Description |
